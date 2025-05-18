@@ -66,5 +66,5 @@ I am a Data Analyst
 # Projects Completed
 * [Colume Feature Adoption & Retention Analysis](https://github.com/sylviawut/Colume_Project): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
   * [About the Dataset](https://github.com/sylviawut/Colume_Project/tree/main/About_The_Dataset)
-  * [Business Questions]
+  * [Business Questions](https://github.com/sylviawut/Colume_Project/tree/main/Business_Questions)
 
