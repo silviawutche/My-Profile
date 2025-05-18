@@ -33,3 +33,10 @@
 </div>
 
 ###
+
+
+# Mission
+My mission is to help a community of learners.
+
+# About Me
+I am a Data Analyst
