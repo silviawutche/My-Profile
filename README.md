@@ -40,3 +40,10 @@ My mission is to help a community of learners.
 
 # About Me :books:
 I am a Data Analyst
+
+# Skills
+* Power BI
+* SQL
+
+
+
