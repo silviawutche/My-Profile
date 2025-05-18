@@ -38,5 +38,5 @@
 # Mission
 My mission is to help a community of learners.
 
-# About Me
+# About Me :books:
 I am a Data Analyst
