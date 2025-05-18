@@ -45,5 +45,6 @@ I am a Data Analyst
 * Power BI
 * SQL
 
-
+# Projects Completed
+[Colume Feature Adoption & Retention Analysis](https://github.com/sylviawut/Colume_Project): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
 
