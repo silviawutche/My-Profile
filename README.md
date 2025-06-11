@@ -4,44 +4,7 @@
 
 ###
 
-<!--- <h2 align="left">Hi 👋! My name is Silvia Wutche, and I am a Data Analyst</h2>
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/silvia-wutche/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="http://www.youtube.com/@thesqlboss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://sylviawutche@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://mainstack.me/silvy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
-  </a>
-  <a href="https://linktr.ee/silviawutche" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=h4AgpikK1-I" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Subscribe&color=FF0000&logoColor=white&labelColor=&style=flat" height="32" alt="youtube logo"  />
-  </a>
-  <a href="silviawutche@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Reach%20out&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/silvia-wutche?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
-  </a>
-</div>
-
-### --->
-
-<h2 align="left">Hi 👋! My name is Sylvia Wutche, and I am a Data Analyst</h2>
+<h2 align="left">Hi 👋! My name is Silvia Wutche, and I am a Data Analyst</h2>
 
 ###
 
