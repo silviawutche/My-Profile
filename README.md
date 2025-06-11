@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo4OTlwNDM1cDc5OHY3MmNsYWlqN3pqMXV5b2VnYTJiZGhtcjh3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif"  />
+</div>
+
+###
+
 <!--- <h2 align="left">Hi 👋! My name is Silvia Wutche, and I am a Data Analyst</h2>
 
 ###
