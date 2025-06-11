@@ -59,6 +59,7 @@ Right now, I’m focused on growing my impact in the data space which means taki
 * [Colume Feature Adoption & Retention Analysis](https://github.com/silviawutche/COLUME-NEW-FEATURE-ADOPTION-PROJECT): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
   * [About the Dataset](https://github.com/silviawutche/COLUME-NEW-FEATURE-ADOPTION-PROJECT/tree/main/About%20the%20Dataset)
   * [Business Questions](https://github.com/silviawutche/COLUME-NEW-FEATURE-ADOPTION-PROJECT/tree/main/Business%20Questions)
+  * [Dashboard](https://github.com/silviawutche/COLUME-NEW-FEATURE-ADOPTION-PROJECT/blob/main/Charts%20Pic/Screenshot%202025-06-11%20163035.jpg)
 
 * [Reducing Downtime and Improving Production Efficiency at Jones Soda](https://github.com/silviawutche/Jones_Soda_Product_Analysis): This project focuses on analyzing Jones Soda’s production downtime and inefficiencies to enhance manufacturing performance.
   * [About the Dataset](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/tree/main/Dataset)
