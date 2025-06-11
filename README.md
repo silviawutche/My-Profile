@@ -57,7 +57,18 @@
 My mission is to help a community of learners master technical skills through real-world projects and clear, hands-on teaching — empowering them to understand how analytics works, tackle complex projects with confidence, and present their work like professionals, no matter their starting point.
 
 # About Me :books:
-I am a Data Analyst
+I’m a Data Analyst with a passion for solving real business problems using data. Over the past few years, I’ve worked with startups, SMEs, and personal projects to turn messy data into clear insights — the kind that help teams make smarter decisions.
+
+My strengths lie in:
+— SQL, Power BI, Excel, and Python for deep analysis and dashboard storytelling
+— Breaking down complex datasets to uncover patterns, track performance, and drive improvement
+— Teaching and mentoring — I’ve helped over 100 people upskill in SQL and data storytelling through workshops and 1-on-1 mentoring
+
+What sets me apart is how I blend technical skill with business thinking. 
+I don’t just pull numbers, I ask the “why” behind the data, communicate insights clearly, and tie them back to business goals. 
+I also believe in documentation, clean processes, and making sure data work is reproducible and scalable.
+
+Right now, I’m focused on growing my impact in the data space which means taking on more collaborative projects, mentoring analysts, and exploring how data drives growth in different sectors 
 
 # Skills
 * Power BI
