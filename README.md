@@ -92,6 +92,5 @@ Right now, I’m focused on growing my impact in the data space which means taki
 
 * [Reducing Downtime and Improving Production Efficiency at Jones Soda](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis): This project focuses on analyzing Jones Soda’s production downtime and inefficiencies to enhance manufacturing performance.
   * [About the Dataset](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/tree/main/Dataset)
-  
   * [Business Questions](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/blob/main/Dataset/Problem_Statement%20%26%20Deliverables.txt)
 
