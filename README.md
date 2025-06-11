@@ -56,7 +56,7 @@ Right now, I’m focused on growing my impact in the data space which means taki
 # Projects Completed
 
 ## SQL Analytics and Visualization Projects
-* [Colume Feature Adoption & Retention Analysis](https://github.com/sylviawut/Colume_Project): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
+* [Colume Feature Adoption & Retention Analysis](https://github.com/silviawutche/COLUME-NEW-FEATURE-ADOPTION-PROJECT): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
   * [About the Dataset](https://github.com/sylviawut/Colume_Project/tree/main/About_The_Dataset)
   * [Business Questions](https://github.com/sylviawut/Colume_Project/tree/main/Business_Questions)
 
