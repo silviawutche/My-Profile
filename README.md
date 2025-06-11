@@ -31,8 +31,8 @@ I’m a Data Analyst with a passion for solving real business problems using dat
 
 My strengths lie in:
 SQL, Power BI, Excel, and Python for deep analysis and dashboard storytelling
-Breaking down complex datasets to uncover patterns, track performance, and drive improvement
-Teaching and mentoring — I’ve helped over 100 people upskill in SQL and data storytelling through workshops and 1-on-1 mentoring
+also breaking down complex datasets to uncover patterns, track performance, and drive improvement.
+I’ve helped over 100 people upskill in SQL and data storytelling through workshops and 1-on-1 mentoring
 
 What sets me apart is how I blend technical skill with business thinking. 
 I don’t just pull numbers, I ask the “why” behind the data, communicate insights clearly, and tie them back to business goals. 
