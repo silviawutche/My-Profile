@@ -1,4 +1,4 @@
-<!--- <h2 align="left">Hi 👋! My name is Sylvia Wutche, and I am a Data Analyst</h2>
+<!--- <h2 align="left">Hi 👋! My name is Silvia Wutche, and I am a Data Analyst</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 
 # Mission
-My mission is to help a community of learners.
+My mission is to help a community of learners master technical skills through real-world projects and clear, hands-on teaching — empowering them to understand how analytics works, tackle complex projects with confidence, and present their work like professionals, no matter their starting point.
 
 # About Me :books:
 I am a Data Analyst
