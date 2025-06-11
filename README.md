@@ -73,6 +73,10 @@ Right now, I’m focused on growing my impact in the data space which means taki
 # Skills
 * Power BI
 * SQL
+* Spreadsheets
+* AWS
+* Python
+* Data Stroytelling
 
 # Projects Completed
 * [Colume Feature Adoption & Retention Analysis](https://github.com/sylviawut/Colume_Project): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
