@@ -41,12 +41,15 @@ I also believe in documentation, clean processes, and making sure data work is r
 Right now, I’m focused on growing my impact in the data space which means taking on more collaborative projects, mentoring analysts, and exploring how data drives growth in different sectors 
 
 # Skills
+## Tech Stack
 * Power BI
 * SQL
 * Spreadsheets
 * AWS
 * Python
-* Data Stroytelling
+
+## Non Tech
+* Data Storytelling
 
 # Projects Completed
 * [Colume Feature Adoption & Retention Analysis](https://github.com/sylviawut/Colume_Project): This analysis investigates how early adoption of these features impacted user retention and user behavior trends post-launch.
