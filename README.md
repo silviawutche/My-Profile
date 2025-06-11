@@ -90,8 +90,8 @@ Right now, I’m focused on growing my impact in the data space which means taki
   * [About the Dataset](https://github.com/sylviawut/Colume_Project/tree/main/About_The_Dataset)
   * [Business Questions](https://github.com/sylviawut/Colume_Project/tree/main/Business_Questions)
 
-*[Reducing Downtime and Improving Production Efficiency at Jones Soda](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis): This project focuses on analyzing Jones Soda’s production downtime and inefficiencies to enhance manufacturing performance.
-  *[About the Dataset](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/tree/main/Dataset)
+* [Reducing Downtime and Improving Production Efficiency at Jones Soda](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis): This project focuses on analyzing Jones Soda’s production downtime and inefficiencies to enhance manufacturing performance.
+  * [About the Dataset](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/tree/main/Dataset)
   
-  *[Business Questions](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/blob/main/Dataset/Problem_Statement%20%26%20Deliverables.txt)
+  * [Business Questions](https://github.com/SylviaWutche/Jones_Soda_Product_Analysis/blob/main/Dataset/Problem_Statement%20%26%20Deliverables.txt)
 
